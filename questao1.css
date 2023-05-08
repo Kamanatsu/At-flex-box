@@ -1,0 +1,17 @@
+.div-geral{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.div-unica{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightskyblue;
+    height: 150px;
+    width: 150px;
+    margin: 1%;
+    border-radius: 5px;
+    border: solid 2px;
+}

@@ -1,0 +1,18 @@
+.div-geral{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    float: left;
+}
+
+.div-unica{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightskyblue;
+    height: 250px;
+    width: 250px;
+    margin: 1%;
+    border-radius: 5px;
+    border: solid 2px;
+}
